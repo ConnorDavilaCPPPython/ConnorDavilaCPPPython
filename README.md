@@ -1,10 +1,4 @@
-- 👋 Hi, My Name Is Connor Davila 
-- 👀 I’m interested in practicing my c++ skillset
-- 🌱 I am currently learning the language of Python 
-- 💞️ I’m looking to work on my own personal projects to improve my portfolio
-- 📫 How to reach me 
+- Greeting's , My Name is Connor Davila and I am a student studying Business Information Systems at UC Riverside School of Business specializing in the Energy & Sustainability sector. More Specifically I aim to leverage PostGreSQL & Python to solve complex issues in Climate Tech & Grid Modernization. 
+
 //--------------Contact Information---------------------\\
-Mobile Number:562-250-7307
-personal Email : connor.davila247cd@gmail.com
-
-
+Linkedin : www.linkedin.com/in/connor-davila-b24812304
